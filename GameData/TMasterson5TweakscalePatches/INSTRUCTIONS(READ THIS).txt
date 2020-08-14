@@ -1,0 +1,7 @@
+Simply place the contents of the "gameData" folder(the folder directly above this file) located inside 
+of the zip folder into your KSP gameData directory for tweakscale goodness for this mod. 
+
+You will also need to download tweakscale separately, which can be found on this forum thread: 
+http://forum.kerbalspaceprogram.com/index.php?/topic/101540-122-tweakscale-v234jan-23/
+
+Please let me know if anything is messed up and I will do my best to fix it in a timely manner. Enjoy!
